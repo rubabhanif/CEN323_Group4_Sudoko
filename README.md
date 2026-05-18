@@ -18,8 +18,6 @@ Clean grid display with box separators using BIOS interrupts
 ESC or entering 0 at row prompt returns to main menu
 
 How to Run
-Download and install emu8086 from https://emu8086-microprocessor-emulator.en.softonic.com/
-Clone or download this repository
 Open emu8086
 Click File → Open and select sudoku.asm
 Click Emulate to assemble the code
@@ -42,10 +40,10 @@ Areeza Maryam 01-135232-013 UI and Input Handling: draw_board, update_cell, draw
 
 
 Files in This Repository
-Sudoku.asm Main 8086 assembly source file, open and run this in emu8086README.mdThis file
+Sudoku.asm , READme.md
 
 Assembly Concepts Used
-This project covers all 12 lab topics from CEN 323 including data movement, arithmetic, logical and shift operations, branching, LOOP instruction, stack operations, procedures, array operations, DOS interrupts (INT 21h), BIOS video interrupts (INT 10h), memory segmentation, and comparison with flags.
+This project covers all lab topics from CEN 323 including data movement, arithmetic, logical and shift operations, branching, LOOP instruction, stack operations, procedures, array operations, DOS interrupts (INT 21h), BIOS video interrupts (INT 10h), memory segmentation, and comparison with flags.
 
 
 Academic Integrity
