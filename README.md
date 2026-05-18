@@ -71,6 +71,6 @@ Sudoku.asm , READme.md
 This project covers all lab topics from CEN 323 including data movement, arithmetic, logical and shift operations, branching, LOOP instruction, stack operations, procedures, array operations, DOS interrupts (INT 21h), BIOS video interrupts (INT 10h), memory segmentation, and comparison with flags.
 
 
-Academic Integrity
+#Academic Integrity
 
 This project was developed independently by the group members listed above as part of the CEN 323 semester project at Bahria University. AI assistance was used for  report writing / debugging help and is disclosed in the project report as required.
