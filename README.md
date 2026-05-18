@@ -1,7 +1,10 @@
 # CEN323_Group4_Sudoko
-Course: CEN 323 — Computer Organization & Assembly Language (COAL)
+Course: CEN 323 Computer Organization & Assembly Language (COAL)
+
 Instructor: Adnan Jelani
+
 University: Bahria University, Department of Computer Science
+
 Group Number: 04
 
 
